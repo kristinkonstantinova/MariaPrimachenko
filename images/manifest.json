@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2150,
+    "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey/canvas/",
+    "label" : {
+      "none" : [ "rat-on-a-journey" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 68,
+              "height" : 47
+            }, {
+              "width" : 135,
+              "height" : 93
+            }, {
+              "width" : 269,
+              "height" : 186
+            }, {
+              "width" : 538,
+              "height" : 371
+            }, {
+              "width" : 1075,
+              "height" : 742
+            }, {
+              "width" : 2150,
+              "height" : 1484
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2150,
+            "@id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1484
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2150,
+          "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1484
+        },
+        "target" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat-on-a-journey/canvas/"
+      } ]
+    } ],
+    "height" : 1484
+  }, {
     "width" : 600,
     "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/lion-1947/canvas/",
     "label" : {
