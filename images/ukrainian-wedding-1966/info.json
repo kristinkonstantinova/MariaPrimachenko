@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 38,
+    "height" : 27
+  }, {
+    "width" : 75,
+    "height" : 54
+  }, {
+    "width" : 150,
+    "height" : 107
+  }, {
+    "width" : 300,
+    "height" : 214
+  }, {
+    "width" : 600,
+    "height" : 427
+  }, {
+    "width" : 1200,
+    "height" : 853
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1200,
+  "@id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/ukrainian-wedding-1966",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 853
+}
