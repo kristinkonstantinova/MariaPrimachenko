@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 68,
+    "height" : 47
+  }, {
+    "width" : 135,
+    "height" : 93
+  }, {
+    "width" : 269,
+    "height" : 186
+  }, {
+    "width" : 538,
+    "height" : 371
+  }, {
+    "width" : 1075,
+    "height" : 742
+  }, {
+    "width" : 2150,
+    "height" : 1484
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2150,
+  "@id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/rat",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1484
+}
