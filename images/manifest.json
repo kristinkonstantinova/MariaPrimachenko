@@ -1,0 +1,66 @@
+{
+  "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in kristinkonstantinova/MariaPrimachenko project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 906,
+    "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar/canvas/",
+    "label" : {
+      "none" : [ "NuclearWar" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 29,
+              "height" : 21
+            }, {
+              "width" : 57,
+              "height" : 41
+            }, {
+              "width" : 114,
+              "height" : 82
+            }, {
+              "width" : 227,
+              "height" : 164
+            }, {
+              "width" : 453,
+              "height" : 327
+            }, {
+              "width" : 906,
+              "height" : 653
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 906,
+            "@id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 653
+          } ],
+          "format" : "image/jpeg",
+          "width" : 906,
+          "id" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 653
+        },
+        "target" : "https://kristinkonstantinova.github.io/MariaPrimachenko/images/NuclearWar/canvas/"
+      } ]
+    } ],
+    "height" : 653
+  } ]
+}
